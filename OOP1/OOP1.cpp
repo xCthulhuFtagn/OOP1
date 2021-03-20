@@ -90,6 +90,5 @@ int main() {
 	cout << student1.GetUni() << endl;
 	Study student2(student1);
 	student2.Print();
-
 	return 0;
 }
